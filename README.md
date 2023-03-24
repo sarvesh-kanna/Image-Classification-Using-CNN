@@ -13,3 +13,14 @@ deployment.
 models for tasks like facial recognition, image classiϐication, object detection, and more.
 
 ● MatConvNet is a process of Convolutional Neural Networks (CNNs) execution for MATLAB. The toolbox is originated with an emphasis on simplicity and ϐlexibility.
+
+**Procedures**
+
+● Preparing the data is the First step of our approach.
+
+● Building and compiling the model is the second step.
+
+● The Third step is that, we can begin the training of CNN by supplying the training
+data.
+
+● Finally, by using the testing data, we can evaluate our model. 
